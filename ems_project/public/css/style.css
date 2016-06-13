@@ -1,0 +1,5 @@
+.table thead td {
+	text-transform: uppercase;
+	background-color: #77D0ED;
+	text-align: center;
+}
