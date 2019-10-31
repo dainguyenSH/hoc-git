@@ -3,3 +3,5 @@
 First Commit
 
 ##git rebase
+
+###git reset
